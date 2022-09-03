@@ -1,0 +1,2 @@
+# Q6 : Write a python script to check whether a given number is a three digit number or not
+print ( 'yes it is three digit no' if 1000 > int ( input ('enter any number :' ) ) > 99 else 'no it is not three digit no')

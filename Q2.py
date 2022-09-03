@@ -1,0 +1,2 @@
+# Q2 : Write a python script to check whether a given number is divisible by 5 or not
+print ( "it is divisible by 5" if int ( input ( "enter any number :" ) ) % 5 == 0 else "it is not divisible by 5" )
